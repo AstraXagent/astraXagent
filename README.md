@@ -1,5 +1,11 @@
 # atraXagent
 AstraXagent
+
+
+![astraX](https://github.com/user-attachments/assets/3189c744-6042-49dd-80fe-50c31e635853)
+
+
+
 AstraXagent is a lightweight, modular multi-agent framework designed to automate and coordinate tasks using AI-driven agents. It can be used for a variety of purposes, such as file management, resume processing, job portal tracking, and task automation. The framework supports easy integration with cloud services like AWS, GCP, and Azure, and can be extended to a variety of use cases that require task delegation and orchestration between multiple agents.
 
 Key Features:
